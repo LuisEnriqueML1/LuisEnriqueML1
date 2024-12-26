@@ -10,18 +10,18 @@ I'm a Data Scientist passionate about transforming raw data into actionable insi
 🛠️ Technology Stack
 I specialize in the Microsoft Power Platform ecosystem and programming languages for data analysis:
 💻 Microsoft Power Platform
-    ├── Power BI
-    ├── Power Query
-    ├── Power Apps
-    └── Power Automate
+- Power BI
+- Power Query
+- Power Apps
+- Power Automate
     
 🐍 Programming Languages
-    ├── Python
-    ├── R
-    └── SQL
+- Python
+- R
+- SQL
 
 📈 Analysis Tools
-    └── Microsoft Excel
+- Microsoft Excel
 
 
 
